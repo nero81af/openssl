@@ -1,37 +1,47 @@
 [submodule "pyca.cryptography"]
 	path = pyca-cryptography
 	url = https://github.com/pyca/cryptography.git
+	update = none
 
 [submodule "krb5"]
 	path = krb5
 	url = https://github.com/krb5/krb5
+	update = none
 
 [submodule "gost-engine"]
 	path = gost-engine
 	url = https://github.com/gost-engine/engine
-	update = rebase
+	update = none
 [submodule "wycheproof"]
 	path = wycheproof
 	url = https://github.com/google/wycheproof
+	update = none
 [submodule "tlsfuzzer"]
 	path = tlsfuzzer
 	url = https://github.com/tlsfuzzer/tlsfuzzer
+	update = none
 [submodule "python-ecdsa"]
 	path = python-ecdsa
 	url = https://github.com/tlsfuzzer/python-ecdsa
+	update = none
 [submodule "tlslite-ng"]
 	path = tlslite-ng
 	url = https://github.com/tlsfuzzer/tlslite-ng
+	update = none
 [submodule "oqs-provider"]
 	path = oqs-provider
 	url = https://github.com/open-quantum-safe/oqs-provider.git
+	update = none
 [submodule "cloudflare-quiche"]
 	path = cloudflare-quiche
 	url = https://github.com/cloudflare/quiche
+	update = none
 [submodule "fuzz/corpora"]
 	path = fuzz/corpora
 	url = https://github.com/openssl/fuzz-corpora
 	branch = main
+	update = none
 [submodule "pkcs11-provider"]
 	path = pkcs11-provider
 	url = https://github.com/latchset/pkcs11-provider.git
+	update = none
